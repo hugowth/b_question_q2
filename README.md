@@ -2,7 +2,7 @@
   Qiestion 2 - JSON Renders Components
 </h1>
 
-##Getting Started 
+## Getting Started 
 
 This app use the Gatsby CLI to create
 
@@ -10,7 +10,7 @@ This app use the Gatsby CLI to create
 
   https://codesandbox.io/s/github/hugowth/b_question_q2/tree/master/?fontsize=14
 
-###Development
+### Development
 
   Navigate into your new site’s directory and start it up.
   ```sh
