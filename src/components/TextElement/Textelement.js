@@ -2,12 +2,12 @@ import React from "react"
 import PropTypes from "prop-types"
 
 const TextElement = param => {
-    const { message, background } = param
+    const { message } = param
 
     return (
-        < div style={{ backgroundColor: background }}>
+        <div>
             <p>{message}</p>
-        </div >)
+        </div>)
 }
 
 TextElement.propTypes = {

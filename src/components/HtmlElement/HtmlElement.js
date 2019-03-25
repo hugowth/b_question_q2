@@ -4,7 +4,7 @@ import TextElement from '../TextElement/Textelement'
 import BoxElement from '../BoxElement/BoxElement'
 
 const HtmlElement = param => {
-    const { type, message, background } = param;
+    const { type } = param;
 
     if (type === 'box') {
         return (
@@ -12,10 +12,6 @@ const HtmlElement = param => {
         )
     }
     else if (type === 'text') {
-        let param = {
-            message: message,
-            background: background
-        }
         return (
             <TextElement {...param}></TextElement>
         )
