@@ -6,13 +6,17 @@
 
 This app use the Gatsby CLI to create
 
+### CodeSandbox Link
+
+  https://codesandbox.io/s/github/hugowth/b_question_q2/tree/master/?fontsize=14
 
 ###Development
 
   Navigate into your new site’s directory and start it up.
   ```sh
+  npm install -g gatsby-cli
   npm i 
-  gatsby develop
+  npm start
   ```
   Your site is now running at `http://localhost:8000`
 
