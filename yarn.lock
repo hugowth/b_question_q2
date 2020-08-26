@@ -13208,10 +13208,10 @@ react-is@^16.12.0, react-is@^16.13.1, react-is@^16.7.0, react-is@^16.8.1, react-
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-json-editor-ajrm@^2.5.9:
-  version "2.5.9"
-  resolved "https://registry.yarnpkg.com/react-json-editor-ajrm/-/react-json-editor-ajrm-2.5.9.tgz#f9cec4aba44b82a75ff632571b84fae0d2bd4c76"
-  integrity sha512-76FQtcIU3O88I5i/QUx+Lw7zB8OpyKap7eyHZOIhbsMdbMiT+sRdbIhxXchKoTOMnYmmw0vG8D9YCzX80iew9w==
+react-json-editor-ajrm@^2.5.10:
+  version "2.5.10"
+  resolved "https://registry.yarnpkg.com/react-json-editor-ajrm/-/react-json-editor-ajrm-2.5.10.tgz#09c5d51a649f2c9093f3ec21a50aa9f3a0427169"
+  integrity sha512-m1c8MmtKyQvlh8HzFKy23qAhQjtfe/V5PnuaTcYN1umkPMrWWa+pLQ8Q7EqigY2BTHUtzXyOn/sAmpk8DDJFfA==
   dependencies:
     "@babel/runtime" "^7.0.0-rc.0"
 
