@@ -22,7 +22,7 @@
     "react-json-editor-ajrm": "^2.5.13"
   },
   "devDependencies": {
-    "babel-jest": "^26.6.1",
+    "babel-jest": "^26.6.2",
     "babel-preset-gatsby": "^0.5.15",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.6.2",
