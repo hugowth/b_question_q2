@@ -1,0 +1,48 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "21:00"
+    timezone: Asia/Hong_Kong
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: gatsby-source-filesystem
+    versions:
+    - 3.3.0
+  - dependency-name: gatsby-plugin-offline
+    versions:
+    - 3.10.1
+    - 4.1.0
+    - 4.3.0
+  - dependency-name: gatsby
+    versions:
+    - 2.32.0
+    - 2.32.1
+    - 2.32.10
+    - 2.32.4
+    - 2.32.7
+    - 3.1.2
+    - 3.3.0
+  - dependency-name: gatsby-transformer-sharp
+    versions:
+    - 3.3.0
+  - dependency-name: gatsby-plugin-manifest
+    versions:
+    - 3.3.0
+  - dependency-name: gatsby-plugin-react-helmet
+    versions:
+    - 4.3.0
+  - dependency-name: gatsby-plugin-sharp
+    versions:
+    - 2.13.4
+    - 2.14.0
+    - 3.2.0
+    - 3.2.1
+  - dependency-name: react-dom
+    versions:
+    - 17.0.1
+  - dependency-name: babel-preset-gatsby
+    versions:
+    - 0.12.0
